@@ -1,3 +1,5 @@
-# Hola Mundo con imagen con AI
+# Hola Mundo
+
+Hola mundo e imagen generada con inteligencia artificial
 
 
